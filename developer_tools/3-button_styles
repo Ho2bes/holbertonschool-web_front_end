@@ -5,3 +5,4 @@
 .btn-outline-light {
     color: #f8f9fa;
     border-color: #f8f9fa;
+}
